@@ -38,8 +38,6 @@ learning is collecting
 <br>
 
 ![Zamberform's GitHub stats](https://github-readme-stats.vercel.app/api?username=zamberform&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamberform&layout=compact)](https://github.com/zamberform/github-readme-stats)
 
 <!--
 **zamberform/zamberform** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
