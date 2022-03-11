@@ -12,6 +12,7 @@ learning is collecting
 ## 2022 Goals
 - master aws service certificate
 - create some services by self
+- create some mini games
 
 ### Languages and Tools:
 
