@@ -1,6 +1,6 @@
 ### Hi there, I am Jun 👋
 
-learning is collecting
+learning is collecting, I like AI
 
 ## I'm a Husband, Father, and Developer
 
