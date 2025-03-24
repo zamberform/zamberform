@@ -9,10 +9,9 @@ learning is collecting
 - 👯 I’m looking to collaborate with other content creators
 - 😄 Fun fact: play with my son
 
-## 2022 Goals
+## 2024 Goals
 - master aws service certificate
-- create some services by self
-- create some mini games
+- create 3 services by myself
 
 ### Languages and Tools:
 
